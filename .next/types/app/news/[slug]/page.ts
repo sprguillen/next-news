@@ -1,4 +1,4 @@
-// File: /home/sprguillen/Workspace/personal/news/app/news/[slug]/page.js
+// File: /home/sprguillen/Workspace/personal/next-news/app/news/[slug]/page.js
 import * as entry from '../../../../../app/news/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
